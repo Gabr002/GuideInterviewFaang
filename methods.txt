@@ -1,0 +1,9 @@
+como se preparar para entrevista do google
+
+Inglês - Avançado
+
+O livro foi: crack the coding interview
+
+E uma lista boa pra começar é esse neetcode.io/practice?tab=neetcode150
+
+pratiquei mais, principalmente system design
