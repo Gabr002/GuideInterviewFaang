@@ -1,3 +1,5 @@
+Estudar para interviews: https://www.hackerearth.com/practice/interviews/
+
 Meta: https://www.metacareers.com/swe-prep-onsite
 
 Google: https://techdevguide.withgoogle.com/paths/interview/
