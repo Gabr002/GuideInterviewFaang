@@ -7,3 +7,6 @@ O livro foi: crack the coding interview
 E uma lista boa pra começar é esse neetcode.io/practice?tab=neetcode150
 
 pratiquei mais, principalmente system design
+
+
+como construir uma solução para receber notificação de quando uma empresa postar no LinkedIn que estar com vagas FAANG abertas (ChatGPT)
