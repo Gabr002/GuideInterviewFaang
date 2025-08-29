@@ -1,5 +1,8 @@
 # GuideInterviewFaang
 
+![Preview](Screenshot%20from%202025-08-29%2014-45-44.png)
+
+---
 Estudar para interviews: https://www.hackerearth.com/practice/interviews/
 
 Meta: https://www.metacareers.com/swe-prep-onsite
@@ -24,5 +27,5 @@ Apple: https://lnkd.in/gkgAfWKK
 
 ---
 
-## Preview
-![Preview](Screenshot%20from%202025-08-29%2014-45-44.png)
+
+
