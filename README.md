@@ -1,3 +1,5 @@
+# GuideInterviewFaang
+
 Estudar para interviews: https://www.hackerearth.com/practice/interviews/
 
 Meta: https://www.metacareers.com/swe-prep-onsite
@@ -19,3 +21,8 @@ Pinterest: https://lnkd.in/gms4A5qD
 Microsoft: https://lnkd.in/gdhBcGpC
 
 Apple: https://lnkd.in/gkgAfWKK
+
+---
+
+## Preview
+![Preview](Screenshot%20from%202025-08-29%2014-45-44.png)
