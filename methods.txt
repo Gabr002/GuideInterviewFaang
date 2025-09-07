@@ -10,3 +10,14 @@ pratiquei mais, principalmente system design
 
 
 como construir uma solução para receber notificação de quando uma empresa postar no LinkedIn que estar com vagas FAANG abertas (ChatGPT)
+
+- Livecoding (leetcode problems)
+    - Big O
+    - Linked List
+    - Hashmap
+    - Graphs
+    - Binary Search
+    - Two Pointers
+    - Data Structure (Queues, Stack, Heap, Binary Three, Tree, B-tree, Map, pair, Set)
+    - Exponential Search
+- [ ]  System Design (Escalabilidade, resiliência)
